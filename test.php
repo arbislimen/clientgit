@@ -12,5 +12,6 @@ and open the template in the editor.
         <?php
         echo "page test";
         ?>
+        hgkhdkfghkfgdkkdkgghk
     </body>
 </html>
