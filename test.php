@@ -13,6 +13,8 @@ and open the template in the editor.
         echo "page test";
         ?>
         hgkhdkfghkfgdkkdkgghk
+        
+        ok
     </body>
 </html>
 bbbbbbbbbbbbbbbbbbbbb
